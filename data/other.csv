@@ -3,6 +3,7 @@ name,source,gender,wikidata,type
 Corantijnstraat,wikidata,,Q508582,way
 Curaçaostraat,wikidata,,Q25279,way
 Endegeesterwatering,wikidata,,Q17438202,way
+Haarlemmerstraat,wikidata,,Q9920,way
 Kooilaan,wikidata,,Q20675,way
 Leuvenstraat,wikidata,,Q118958,way
 Lombokstraat,wikidata,,Q7564,way
@@ -509,7 +510,6 @@ Gymnasiumpad,,,,way
 Haagplein,,,,way
 "Haagse Schouwweg",,,,way
 Haagweg,,,,way
-Haarlemmerstraat,,,,way
 Haarlemmerweg,,,,way
 Hadewychlaan,,,,way
 Hadrianusstraat,,,,way
@@ -646,7 +646,6 @@ Jotapad,,,,way
 Joubertstraat,,,,way
 "Juffrouw Maashofje",,,,way
 Julianastraat,,,,way
-"Julius Caesarbrug",,,,way
 "Julius Caesarlaan",,,,way
 "Julius Caesarpad",,,,way
 "Julius Röntgenstraat",,,,way
@@ -1159,7 +1158,6 @@ Reigerpad,,,,way
 Reineveststeeg,,,,way
 Reitzstraat,,,,way
 Reizigersstraat,,,,way
-Rembrandtbrug,,,,way
 Rembrandtpark,,,,way
 Rembrandtstraat,,,,way
 Remusbrug,,,,way
@@ -1171,6 +1169,11 @@ Ridderspoortuin,,,,way
 Rietgorspad,,,,way
 Rietveldpad,,,,way
 Rigolettohof,,,,way
+Rijksstraatweg,,,,way
+"Rijksweg 11",,,,way
+"Rijksweg A4",,,,way
+"Rijksweg A44",,,,way
+"Rijksweg N11",,,,way
 "Rijn en Schiekade",,,,way
 Rijnbrug,,,,way
 Rijnburgerweg,,,,way
