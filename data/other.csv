@@ -5,6 +5,7 @@ Curaçaostraat,wikidata,,Q25279,way
 Endegeesterwatering,wikidata,,Q17438202,way
 Haarlemmerstraat,wikidata,,Q9920,way
 Kooilaan,wikidata,,Q20675,way
+Lammenschansweg,wikidata,,Q2034411,way
 Leuvenstraat,wikidata,,Q118958,way
 Lombokstraat,wikidata,,Q7564,way
 Mariënpoelstraat,wikidata,,Q98480662,way
@@ -461,7 +462,7 @@ Gangetje,,,,way
 Ganzenzijde,,,,way
 Gardeniadal,,,,way
 Garenmarkt,,,,way
-Garenmarktplein,,,,way
+Garenmarktplein,,,,relation+way
 Gashouderbrug,,,,way
 "Gekroonde Haanpoort",,,,way
 "Gekroonde LIefdepoort",,,,way
@@ -775,7 +776,6 @@ Lakenplein,,,,way
 Lambdakade,,,,way
 Lambertushof,,,,way
 Lammenschansplein,,,,way
-Lammenschansweg,,,,way
 Lammermarkt,,,,way
 "Lange Lijsbethsteeg",,,,way
 "Lange Mare",,,,way
@@ -1170,7 +1170,6 @@ Ridderspoortuin,,,,way
 Rietgorspad,,,,way
 Rietveldpad,,,,way
 Rigolettohof,,,,way
-Rijksstraatweg,,,,way
 "Rijksweg 11",,,,way
 "Rijksweg A4",,,,way
 "Rijksweg A44",,,,way
