@@ -107,6 +107,7 @@ Arsenaalstraat,,,,way
 Arubapad,,,,way
 Asserstraat,,,,way
 Asterpad,,,,way
+Atalantapad,,,,way
 Atjehstraat,,,,way
 Atlasvlinder,,,,way
 Augustuspad,,,,way
@@ -124,6 +125,7 @@ Ballonpad,,,,way
 Ballonstraat,,,,way
 "Barbara van Meertenstraat",,,,way
 Barbarasteeg,,,,way
+"Barend van Namenshof",,,,way
 Barkenwal,,,,way
 Barnsteenpad,,,,way
 Barnsteenstraat,,,,way
@@ -131,7 +133,7 @@ Barnsteenstraat,,,,way
 Bassonstraat,,,,way
 Beekforel,,,,way
 Beelpad,,,,way
-Beestenmarkt,,,,relation
+Beestenmarkt,,,,relation+way
 Begijnhof,,,,way
 Begoniadal,,,,way
 Begoniapad,,,,way
@@ -142,10 +144,12 @@ Bergmolen,,,,way
 Berkendaalstraatje,,,,way
 Berlagestraat,,,,way
 Berliozpad,,,,way
+"Bernardijn ten Zeldamstraat",,,,way
 Bernhardkade,,,,way
 Berylstraat,,,,way
 Beschuitsteeg,,,,way
 Besjeslaan,,,,way
+Besjeslaanbrug,,,,way
 "Bessen pad",,,,way
 Bessenpad,,,,way
 Bessenwier,,,,way
@@ -173,6 +177,7 @@ Blekerskade,,,,way
 Blekerspark,,,,way
 Bloemenpad,,,,way
 Bloemfonteinstraat,,,,way
+Bloemistenhof,,,,way
 Bloemistenlaan,,,,way
 Bloemlustplein,,,,way
 Bloemstraat,,,,way
@@ -187,6 +192,7 @@ Bolwerkstraat,,,,way
 Bonairepad,,,,way
 Bonaireplein,,,,way
 Bonairestraat,,,,way
+Bontekoepark,,,,way
 Boomgaardsteeg,,,,way
 Boommarkt,,,,way
 Bootstraat,,,,way
@@ -273,7 +279,6 @@ Cliviadal,,,,way
 Clusiusplaats,,,,way
 Cobetstraat,,,,way
 Coebelweg,,,,way
-"Coert de Jongstraat",,,,way
 Colenbranderstraat,,,,way
 Commanderijpoort,,,,way
 Concordiabrug,,,,way
@@ -545,6 +550,7 @@ Heinekenpad,,,,way
 "Heintje Davidsweg",,,,way
 Heivlinder,,,,way
 Hekkensteeg,,,,way
+Helarbrug,,,,way
 "Helder Camarastraat",,,,way
 "Helena Verburgstraat",,,,way
 Helmbloem,,,,way
@@ -649,6 +655,7 @@ Jeruzalemshof,,,,way
 "Johannes Poststraat",,,,way
 "Jonas Daniël Meijerstraat",,,,way
 "Joop Vervoornpad",,,,way
+"Joop Walenkamptunnel",,,,way
 "Joop den Uyllaan",,,,way
 "Joost Frans van der Lindenpoort",,,,way
 Jotapad,,,,way
@@ -782,7 +789,7 @@ Kwikstaarthoek,,,,way
 Lambdakade,,,,way
 Lambertushof,,,,way
 Lammenschansplein,,,,way
-Lammermarkt,,,,way
+Lammermarkt,,,,relation+way
 "Lange Lijsbethsteeg",,,,way
 "Lange Mare",,,,way
 "Lange Scheistraat",,,,way
@@ -1254,6 +1261,7 @@ Scheepswerf,,,,way
 Schelpenkade,,,,way
 Scheringstraat,,,,way
 Schermerhornpad,,,,way
+Schijverkenspad,,,,way
 Schimmelpenninckstraat,,,,way
 Schimmelstraat,,,,way
 Schipholweg,,,,way
@@ -1566,7 +1574,6 @@ Wilhelmuspad,,,,way
 "Willem van der Madeweg",,,,way
 Willemshof,,,,way
 Willemstraat,,,,way
-"William Brewstersteeg",,,,way
 Wintervlinder,,,,way
 "Witte Rozenstraat",,,,way
 "Witte Singel",,,,way
