@@ -335,7 +335,6 @@ Damtunnel,,,,way
 "De Goejestraat",,,,way
 "De Heyderweg",,,,way
 "De Hoek",,,,way
-"De Kempenaerstraat",,,,way
 "De Laat de Kanterstraat",,,,way
 "De Meij van Streefkerkstraat",,,,way
 "De Plaats",,,,way
@@ -767,7 +766,6 @@ Kooihof,,,,way
 Kooikerbrug,,,,way
 Kooipark,,,,way
 Kooiplein,,,,way
-Kooitunnel,,,,way
 Kooizicht,,,,way
 Koolgracht,,,,way
 Koolstraat,,,,way
@@ -1096,6 +1094,7 @@ Oltmansstraat,,,,way
 Olympuspad,,,,way
 Omegaplantsoen,,,,way
 Omegaweg,,,,way
+Omikronpad,,,,way
 Ommedijkseweg,,,,way
 Omnikronpad,,,,way
 Onafhankelijkheidsweg,,,,way
@@ -1144,7 +1143,6 @@ Paradijssteeg,,,,way
 Parelmoervlinder,,,,way
 Parelstraat,,,,way
 "Park Hooghkamer",,,,way
-"Park Matilo",,,,way
 "Park de Put",,,,way
 "Park die Leythe",,,,way
 Parkstraat,,,,way
@@ -1561,10 +1559,12 @@ Valkensteeg,,,,way
 "Van der Waalsstraat",,,,way
 "Van der Werfstraat",,,,way
 Vasalisbrug,,,,way
+Vasalisplantsoen,,,,way
 Vederwier,,,,way
 Veehalstraat,,,,way
 Veenbes,,,,way
 Veerhuis,,,,way
+Veerpolder,,,,way
 Veerpolderpad,,,,way
 Veerstraat,,,,way
 Veilingkade,,,,way
@@ -1579,12 +1579,14 @@ Venusstraat,,,,way
 Verbeekstraat,,,,way
 Verdamstraat,,,,way
 Verfmolen,,,,way
+Vergeet-mij-nietstraat,,,,way
 Vergiliusstraat,,,,way
 Versijdenstraat,,,,way
 Ververstraat,,,,way
 Ververstraatplein,,,,way
 Vestestraat,,,,way
 Vestwal,,,,way
+"Victoria Regiapad",,,,way
 Vicuspad,,,,way
 Vierlinghlaan,,,,way
 "Vijf Meilaan",,,,way
@@ -1597,6 +1599,7 @@ Vismarkt,,,,way
 Visserspad,,,,way
 Vitruviusbrug,,,,way
 Vitruviusstraat,,,,way
+Vliegerstraat,,,,way
 Vliervlinder,,,,way
 Vliet,,,,way
 Vlietpark,,,,way
@@ -1612,6 +1615,7 @@ Voorschoterweg,,,,way
 Voorstraat,,,,way
 Vossebes,,,,way
 Vossemeerlaan,,,,way
+Vossiusplein,,,,way
 Voszegge,,,,way
 Vreewijkstraat,,,,way
 Vrijheidslaan,,,,way
@@ -1639,6 +1643,7 @@ Watermolen,,,,way
 Watersteeg,,,,way
 Weddesteeg,,,,way
 Weegbreetuin,,,,way
+Weeshuishof,,,,way
 "Weide pad",,,,way
 Weidehof,,,,way
 Weigeliadal,,,,way
@@ -1649,10 +1654,12 @@ Westlanderwerf,,,,way
 Wevershof,,,,way
 "Wiardi Beckmanstraat",,,,way
 Wiekelhorst,,,,way
+Wiekelpad,,,,way
 Wielmakersteeg,,,,way
 Wierickestraat,,,,way
 Wijnbes,,,,way
 Wilgenrode,,,,way
+"Wilhelmina Schweickhardtplein",,,,way
 Wilhelmuspad,,,,way
 "Willem Dreeslaan",,,,way
 "Willem Klooslaan",,,,way
@@ -1661,6 +1668,7 @@ Willemshof,,,,way
 Willemstraat,,,,way
 "William Brewstersteeg",,,,way
 Wintervlinder,,,,way
+Wisenniabrug,,,,way
 "Witte Rozenstraat",,,,way
 "Witte Singel",,,,way
 Wollegras,,,,way
@@ -1683,6 +1691,7 @@ Zeeforel,,,,way
 Zeemanlaan,,,,way
 Zeewier,,,,way
 Zegersteeg,,,,way
+Zeppelinpad,,,,way
 Zijdevlinder,,,,way
 Zijldonk,,,,way
 Zijleiland,,,,way
