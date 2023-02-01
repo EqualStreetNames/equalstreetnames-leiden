@@ -256,10 +256,10 @@ Carneoolstraat,,,,way
 Castellumweg,,,,way
 "Catharina Maartendochtershof",,,,way
 "Catharina Schraderpad",,,,way
+Catharinabrug,,,,way
 Catharinahof,,,,way
 Catharinasteeg,,,,way
 Catharinastraat,,,,way
-Catherinabrug,,,,way
 Cathrijnestraat,,,,way
 "Cato van der Pijlpad",,,,way
 Celebesstraat,,,,way
@@ -491,7 +491,6 @@ Garenmarktplein,,,,relation+way
 Gashouderbrug,,,,way
 Geertruytstraat,,,,way
 "Gekroonde Haanpoort",,,,way
-"Gekroonde LIefdepoort",,,,way
 "Gekroonde Liefdepoort",,,,way
 "Gerard Brandtstraat",,,,way
 "Gerard Revehof",,,,way
@@ -666,7 +665,6 @@ Jadestraat,,,,way
 "Jan Vossenbrug",,,,way
 "Jan Wolkersstraat",,,,way
 "Jan van Goyenkade",,,,way
-"Jan van Houtbrug",,,,way
 "Jan van Houtkade",,,,way
 "Jantina van Hoornkade",,,,way
 Janvossensteeg,,,,way
@@ -1708,6 +1706,7 @@ Zirkoonstraat,,,,way
 Zocherstraat,,,,way
 Zoeterwoudsesingel,,,,way
 Zoeterwoudseweg,,,,way
+Zonlichtpad,,,,way
 Zonnebloem,,,,way
 Zonnedauwtuin,,,,way
 Zonneveldstraat,,,,way
@@ -1718,10 +1717,12 @@ Zuidsingel,,,,way
 "Zuster Bertkenstraat",,,,way
 "Zuster Meijboomstraat",,,,way
 "Zuster Reichertstraat",,,,way
+Zusterhof,,,,way
 "Zwam pad",,,,way
 Zwanenpad,,,,way
 Zwanenzijde,,,,way
 "Zwarte Pad",,,,way
+"Zwarte Padviaduct",,,,way
 Zwartehandspoort,,,,way
 Zwartemeerlaan,,,,way
 Zweilandlaan,,,,way
