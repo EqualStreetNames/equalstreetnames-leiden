@@ -132,7 +132,7 @@ Barnsteenstraat,,,,way
 Bassonstraat,,,,way
 Beekforel,,,,way
 Beelpad,,,,way
-Beestenmarkt,,,,relation
+Beestenmarkt,,,,relation+way
 Begijnhof,,,,way
 Begoniadal,,,,way
 Begoniapad,,,,way
@@ -167,8 +167,8 @@ Bilderdijkstraat,,,,way
 Billitonstraat,,,,way
 Binnenoostsingel,,,,way
 Bizetpad,,,,way
-"Blauwe Tramstraat",,,,way
 "Blauwe Vogelweg",,,,way
+"Blauwe tramstraat",,,,way
 Blauwkarper,,,,way
 Blauwmutsenpad,,,,way
 Blauwpoortsbrug,,,,way
@@ -638,8 +638,8 @@ Iepenlaantje,,,,way
 Iepenrode,,,,way
 Iepentakvlinder,,,,way
 "Ietje Kooistrapad",,,,way
+"Ingenieur Driessenstraat",,,,way
 "Ingenieur G. Tjalmaweg",,,,way
-"Ir. Driessenstraat",,,,way
 Irispad,,,,way
 Isoldehof,,,,way
 Ixiadal,,,,way
@@ -935,6 +935,7 @@ Maresingel,,,,way
 Margrietpad,,,,way
 "Maria Austriapad",,,,way
 "Maria Dermoûtpad",,,,way
+"Maria Gijzenplein",,,,way
 "Maria Gijzensteeg",,,,way
 "Maria Montessoribrug",,,,way
 "Maria Voskade",,,,way
@@ -951,7 +952,6 @@ Marktsteeg,,,,way
 "Martinus Nijhoffbrug",,,,way
 "Martinus Nijhoffplaats",,,,way
 "Martinus Nijhoffstraat",,,,way
-"Marua Gijzenplein",,,,way
 "Mary Beystraat",,,,way
 Matilobrug,,,,way
 Matilopad,,,,way
