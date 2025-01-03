@@ -55,6 +55,7 @@ Akkerhoornbloem,,,,way
 "Alexander Dubčekplaats",,,,way
 Alexanderstraat,,,,way
 "Alexandrine Tinneplein",,,,way
+Alfabetweg,,,,way
 Alfastraat,,,,way
 "Alida Buitendijkpad",,,,way
 Aloëlaan,,,,way
@@ -88,6 +89,7 @@ Ankerpark,,,,way
 Antillenstraat,,,,way
 "Antonia Korvezeepad",,,,way
 "Antonie Duycklaan",,,,way
+"Antony Fokkerweg",,,,way
 "Antoon Coolenkade",,,,way
 Apollolaan,,,,way
 Apollotoren,,,,way
@@ -101,6 +103,7 @@ Arendshorst,,,,way
 Argusvlinder,,,,way
 Arsenaalplein,,,,way
 Arsenaalstraat,,,,way
+Artemisstraat,,,,way
 "Arthur van Schendelbrug",,,,way
 "Arthur van Schendelstraat",,,,way
 Arubapad,,,,way
@@ -300,7 +303,6 @@ Consciëntieplein,,,,way
 "Constantijn Huygenslaan",,,,way
 Consulstraat,,,,way
 Coornhertstraat,,,,way
-Corbulotunnel,,,,way
 Corbuloweg,,,,way
 Cormorantwerf,,,,way
 "Cornelia van Arkelstraat",,,,way
@@ -336,6 +338,7 @@ Damtunnel,,,,way
 "De Heyderweg",,,,way
 "De Hoek",,,,way
 "De Laat de Kanterstraat",,,,way
+"De Limes",,,,way
 "De Meij van Streefkerkstraat",,,,way
 "De Plaats",,,,way
 "De Ridderstraat",,,,way
@@ -375,7 +378,6 @@ Donsvlinder,,,,way
 Dopheide,,,,way
 Dotterbloem,,,,way
 Dozystraat,,,,way
-"Dr. Lelytunnel",,,,way
 Draadzegge,,,,way
 Drakensteynplaats,,,,way
 Drechtstraat,,,,way
@@ -480,6 +482,7 @@ Fuchsiapad,,,,way
 Fugapad,,,,way
 Futenpad,,,,way
 "Gabriël Metzustraat",,,,way
+Gaiastraat,,,,way
 Galgewater,,,,way
 Galjoenwal,,,,way
 Gamandertuin,,,,way
@@ -562,6 +565,7 @@ Haverstraat,,,,way
 Haverzakgang,,,,way
 Havikpad,,,,way
 Havikshorst,,,,way
+Hazenpad,,,,way
 Hazepad,,,,way
 Hazewindsteeg,,,,way
 Hazewinkelstraat,,,,way
@@ -669,6 +673,7 @@ Jadestraat,,,,way
 "Jan Vossenbrug",,,,way
 "Jan Wolkersstraat",,,,way
 "Jan van Goyenkade",,,,way
+"Jan van Hoovenpad",,,,way
 "Jan van Houtkade",,,,way
 "Jantina van Hoornkade",,,,way
 Janvossensteeg,,,,way
@@ -823,7 +828,6 @@ Lakenplein,,,,way
 Lambdakade,,,,way
 Lambertushof,,,,way
 Lammenschansplein,,,,way
-Lammenschanswegviaduct,,,,way
 Lammermarkt,,,,relation+way
 "Lange Lijsbethsteeg",,,,way
 "Lange Mare",,,,way
@@ -851,6 +855,14 @@ Leeuwerikstraat,,,,way
 Leeuwkenstraat,,,,way
 Legewerfsteeg,,,,way
 Leidatoweg,,,,way
+"Leiden Centraal - perron A",,,,way
+"Leiden Centraal - perron B",,,,way
+"Leiden Centraal - perron C",,,,way
+"Leiden Centraal - perron D",,,,way
+"Leiden Centraal - perron E",,,,way
+"Leiden Centraal - perron F",,,,way
+"Leiden Centraal - perron G",,,,way
+"Leiden Centraal - perron H",,,,way
 Leiderdorpsebrug,,,,way
 "Leidseplein LUMC",,,,way
 Leidsestraatweg,,,,way
@@ -1138,7 +1150,6 @@ Ovidiusstraat,,,,way
 Oxfordlaan,,,,way
 "P.C. Hooftlaan",,,,way
 "P.J. Blokstraat",,,,way
-"P.N. van Eyckhof",,,,way
 Paardentramhof,,,,way
 "Pad van Bremmer",,,,way
 Paganinistraat,,,,way
@@ -1305,6 +1316,7 @@ Rooseveltstraat,,,,way
 "Rosa Luxemburgkade",,,,way
 "Rosa Spierstraat",,,,way
 "Rosa de Werdstraat",,,,way
+"Rosalind Franklin Plein",,,,relation
 Rosenburch,,,,way
 Rosmolen,,,,way
 Rossinistraat,,,,way
@@ -1510,6 +1522,7 @@ Trekschuitpad,,,,way
 Trekvlietpad,,,,way
 "Trien Semlerstraat",,,,way
 Troelstraplein,,,,way
+Trompweg,,,,way
 "Truus Schröderpad",,,,way
 Tuinbank,,,,way
 Tuinderijpad,,,,way
@@ -1666,6 +1679,7 @@ Wiekelpad,,,,way
 Wielmakersteeg,,,,way
 Wierickestraat,,,,way
 Wijnbes,,,,way
+Wilgenpad,,,,way
 Wilgenrode,,,,way
 "Wilhelmina Schweickhardtplein",,,,way
 Wilhelmuspad,,,,way
