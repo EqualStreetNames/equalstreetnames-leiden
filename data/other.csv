@@ -547,7 +547,6 @@ Haarlemmertrekvaart,,,,way
 Haarlemmerweg,,,,way
 Hadewychlaan,,,,way
 Hadrianusstraat,,,,way
-"Hal LUMC",,,,way
 Hallenweg,,,,way
 Hambroeklaan,,,,way
 Hanepoelpad,,,,way
@@ -866,7 +865,6 @@ Leidatoweg,,,,way
 "Leiden Centraal - perron G",,,,way
 "Leiden Centraal - perron H",,,,way
 Leiderdorpsebrug,,,,way
-"Leidseplein LUMC",,,,way
 Leidsestraatweg,,,,way
 Leidseweg,,,,way
 Lekstraat,,,,way
@@ -877,15 +875,6 @@ Levendaal,,,,way
 Libellenveld,,,,way
 Lieveheersbeestjespad,,,,way
 "Lieven de Keijstraat",,,,way
-"Lift B",,,,way
-"Lift C",,,,way
-"Lift D",,,,way
-"Lift E",,,,way
-"Lift H",,,,way
-"Lift J",,,,way
-"Lift K",,,,way
-"Lift L",,,,way
-"Lift P",,,,way
 Ligusterbes,,,,way
 Lijsterbes,,,,way
 Lijsterbeslaantje,,,,way
@@ -1444,7 +1433,7 @@ Stadzicht,,,,way
 Stalpaerthof,,,,way
 Standerdmolen,,,,way
 Staringkade,,,,way
-Stationsplein,,,,way
+Stationsplein,,,,relation+way
 Stationspleintunnel,,,,way
 Stationsweg,,,,way
 "Staverse jolwerf",,,,way
