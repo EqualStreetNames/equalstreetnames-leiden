@@ -1,5 +1,7 @@
 name,source,gender,wikidata,type
 "Anna Bijnskade",wikidata,,Q18937412,way
+Bielsenstraat,wikidata,,Q2359902,way
+Bufferkade,wikidata,,Q2359902,way
 Corantijnstraat,wikidata,,Q508582,way
 Curaçaostraat,wikidata,,Q25279,way
 Endegeesterwatering,wikidata,,Q17438202,way
@@ -16,9 +18,11 @@ Paramaribohof,wikidata,,Q3001,way
 Paramaribostraat,wikidata,,Q3001,way
 Pesthuislaan,wikidata,,Q2105875,way
 Sabastraat,wikidata,,Q25528,way
+Seinpaalstraat,wikidata,,Q2359902,way
 "Sint Eustatiusstraat",wikidata,,Q26180,way
 "Sint Maartenstraat",wikidata,,Q26273,way
 Soestdijkkade,wikidata,,Q234048,way
+Spoorlaan,wikidata,,Q2359902,way
 Sumatrastraat,wikidata,,Q3492,way
 Surinamestraat,wikidata,,Q19901436,way
 Timorstraat,wikidata,,Q83067,way
@@ -164,7 +168,6 @@ Bethlehemshof,,,,way
 Beukenrode,,,,way
 Bevrijdingsplein,,,,way
 Bezembinderstraat,,,,way
-Bielsenstraat,,,,way
 "Bijen pad",,,,way
 Bijenveld,,,,way
 Bilderdijkstraat,,,,way
@@ -238,7 +241,6 @@ Bronkhorststraat,,,,way
 Brouckhovenshof,,,,way
 "Brug Klein Cronesteinpark (796)",,,,way
 Bruggestraat,,,,way
-Bufferkade,,,,way
 Buitenruststraat,,,,way
 Buizerdhorst,,,,way
 Buizerdpad,,,,way
@@ -619,6 +621,7 @@ Horstenpad,,,,way
 Horstenrode,,,,way
 Hortensiadal,,,,way
 Hortensiapad,,,,way
+"Hortus Botanicus",,,,way
 "Hortus botanicus",,,,way
 Houtlaan,,,,way
 Houtmarkt,,,,way
@@ -1256,7 +1259,7 @@ Reineveststeeg,,,,way
 Reitzstraat,,,,way
 Reizigersstraat,,,,way
 Rembrandtpark,,,,way
-Rembrandtplaats,,,,way
+Rembrandtplaats,,,,relation+way
 Rembrandtstraat,,,,way
 Remusbrug,,,,way
 Resedastraat,,,,way
@@ -1359,7 +1362,6 @@ Schuttersveld,,,,way
 Scilladuin,,,,way
 Sebastiaansdoelen,,,,way
 Segaarstraat,,,,way
-Seinpaalstraat,,,,way
 Sellegerplein,,,,way
 Senaatbrug,,,,way
 Senaatstraat,,,,way
@@ -1420,7 +1422,6 @@ Spilsteeg,,,,way
 Spinelstraat,,,,way
 Spoelstraat,,,,way
 Spoorbloem,,,,way
-Spoorlaan,,,,way
 Spoorweghavenpad,,,,way
 Spreeuwenplaats,,,,way
 Springerpad,,,,way
@@ -1492,6 +1493,7 @@ Thorbeckestraat,,,,way
 Tiberiusstraat,,,,way
 "Tiboel Siegenbeekstraat",,,,way
 "Tieleman en Drosweg",,,,way
+"Tijdelijke verbinding Vrouwenweg",,,,way
 Tijgeroogstraat,,,,way
 "Tine Tammespad",,,,way
 "Tine van Dethstraat",,,,way
