@@ -1,19 +1,30 @@
 name,source,gender,wikidata,type
 "Anna Bijnskade",wikidata,,Q18937412,way
 Bielsenstraat,wikidata,,Q2359902,way
+"Blauwe tramstraat",wikidata,,Q2832844,way
+Blauwpoortsbrug,wikidata,,Q20892647,way
+Blauwpoortshaven,wikidata,,Q20892647,way
 Bufferkade,wikidata,,Q2359902,way
+Catharinabrug,wikidata,,Q14345148,way
+Catharinahof,wikidata,,Q14345148,way
+Catharinasteeg,wikidata,,Q14345148,way
 Corantijnstraat,wikidata,,Q508582,way
 Curaçaostraat,wikidata,,Q25279,way
 Endegeesterwatering,wikidata,,Q17438202,way
 Haarlemmerstraat,wikidata,,Q9920,way
+Kettingstraat,wikidata,,Q13745121,way
 Kooilaan,wikidata,,Q20675,way
+"Laan der Verenigde Naties",wikidata,,Q1065,way
+Lammenschansplein,wikidata,,Q2034411,way
 Lammenschansweg,wikidata,,Q2034411,way
 Leuvenstraat,wikidata,,Q118958,way
 Lombokstraat,wikidata,,Q7564,way
+"Marendorpse Dwarsstraat",wikidata,,Q2709937,way
 Mariënpoelstraat,wikidata,,Q98480662,way
 Marowijnepad,wikidata,,Q1369002,way
 Molenstraat,wikidata,,Q38720,way
 Nickeriepad,wikidata,,Q182396,way
+Oxfordlaan,wikidata,,Q34217,way
 Paramaribohof,wikidata,,Q3001,way
 Paramaribostraat,wikidata,,Q3001,way
 Pesthuislaan,wikidata,,Q2105875,way
@@ -55,7 +66,6 @@ Akenwerf,,,,way
 Akkerhof,,,,way
 Akkerhoornbloem,,,,way
 "Albert Verweijstraat",,,,way
-"Aletta Jacobslaan",,,,way
 "Alexander Dubčekplaats",,,,way
 Alexanderstraat,,,,way
 "Alexandrine Tinneplein",,,,way
@@ -175,11 +185,8 @@ Billitonstraat,,,,way
 Binnenoostsingel,,,,way
 Bizetpad,,,,way
 "Blauwe Vogelweg",,,,way
-"Blauwe tramstraat",,,,way
 Blauwkarper,,,,way
 Blauwmutsenpad,,,,way
-Blauwpoortsbrug,,,,way
-Blauwpoortshaven,,,,way
 Blekerskade,,,,way
 Blekerspark,,,,way
 Bloemenpad,,,,way
@@ -262,9 +269,6 @@ Carneoolstraat,,,,way
 Castellumweg,,,,way
 "Catharina Maartendochtershof",,,,way
 "Catharina Schraderpad",,,,way
-Catharinabrug,,,,way
-Catharinahof,,,,way
-Catharinasteeg,,,,way
 Catharinastraat,,,,way
 Cathrijnestraat,,,,way
 "Cato van der Pijlpad",,,,way
@@ -390,7 +394,6 @@ Driemasterwal,,,,way
 Driftstraat,,,,way
 Drionhof,,,,way
 Drontermeerlaan,,,,way
-Druckerstraat,,,,way
 Druivenstraat,,,,way
 Drususlaan,,,,way
 "Du Rieustraat",,,,way
@@ -522,7 +525,6 @@ Gounodpad,,,,way
 Gouwestraat,,,,way
 Granaatplein,,,,way
 Graskarper,,,,way
-Grevenstraat,,,,way
 Griegstraat,,,,way
 "Groene Draeckpad",,,,way
 "Groene Maredijk",,,,way
@@ -692,7 +694,6 @@ Jeruzalemshof,,,,way
 "Jonas Daniël Meijerstraat",,,,way
 "Joop Vervoornpad",,,,way
 "Joop Walenkamptunnel",,,,way
-"Joop den Uyllaan",,,,way
 "Joost Frans van der Lindenpoort",,,,way
 Jotapad,,,,way
 Joubertstraat,,,,way
@@ -738,7 +739,6 @@ Kersenstraat,,,,way
 Kerstroos,,,,way
 Ketelboetersteeg,,,,way
 Ketelmeerlaan,,,,way
-Kettingstraat,,,,way
 Kiekendiefhorst,,,,way
 Kievitshoek,,,,way
 Kievitspad,,,,way
@@ -823,7 +823,6 @@ Kuiperssteeg,,,,way
 Kwartelhoek,,,,way
 Kwekerijplein,,,,way
 Kwikstaarthoek,,,,way
-"Laan der Verenigde Naties",,,,way
 "Laan te Rhijnhof",,,,way
 "Laan van Oud-Poelgeest",,,,way
 "Lage Morsweg",,,,way
@@ -831,7 +830,6 @@ Kwikstaarthoek,,,,way
 Lakenplein,,,,way
 Lambdakade,,,,way
 Lambertushof,,,,way
-Lammenschansplein,,,,way
 Lammermarkt,,,,relation+way
 "Lange Lijsbethsteeg",,,,way
 "Lange Mare",,,,way
@@ -944,7 +942,6 @@ Maredijkhofje,,,,way
 Maredijksepolderpad,,,,way
 Maredijkviaduct,,,,way
 Marelaan,,,,way
-"Marendorpse Dwarsstraat",,,,way
 Marepoortbrug,,,,way
 Marepoortkade,,,,way
 Maresingel,,,,way
@@ -1132,6 +1129,7 @@ Oranjestraat,,,,way
 Orchideepad,,,,way
 Orionstraat,,,,way
 "Os en Paardenlaan",,,,way
+"Oud Hortuszichtbrug",,,,way
 "Oude Herengracht",,,,way
 "Oude Rijn",,,,way
 "Oude Singel",,,,way
@@ -1142,7 +1140,6 @@ Overrijn,,,,way
 Overweteringpad,,,,way
 Ovidiusbrug,,,,way
 Ovidiusstraat,,,,way
-Oxfordlaan,,,,way
 "P.C. Hooftlaan",,,,way
 "P.J. Blokstraat",,,,way
 Paardentramhof,,,,way
@@ -1234,7 +1231,6 @@ Primuladuin,,,,way
 Prinsenlaan,,,,way
 Prinsenstraat,,,,way
 "Prinses Wilhelminastraat",,,,way
-Prinsessekade,,,,way
 Professorenpad,,,,way
 Punterwerf,,,,way
 Purcellstraat,,,,way
@@ -1449,7 +1445,6 @@ Sterrenwachtlaan,,,,way
 Sterzegge,,,,way
 Stevensbloem,,,,way
 Stevensbrug,,,,way
-Stevenshof,,,,way
 Stevenshofdreef,,,,way
 Stieltjesstraat,,,,way
 "Stille Mare",,,,way
@@ -1677,7 +1672,6 @@ Wilgenpad,,,,way
 Wilgenrode,,,,way
 "Wilhelmina Schweickhardtplein",,,,way
 Wilhelmuspad,,,,way
-"Willem Dreeslaan",,,,way
 "Willem Klooslaan",,,,way
 "Willem van der Madeweg",,,,way
 Willemshof,,,,way

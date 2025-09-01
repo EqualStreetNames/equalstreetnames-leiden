@@ -1,6 +1,7 @@
 name,source,gender,wikidata,type
 "Aagje Dekenstraat",wikidata,F,Q255601,way
 "Albertine Agnesstraat",wikidata,F,Q271950,way
+"Aletta Jacobslaan",wikidata,F,Q463478,way
 Amaliastraat,wikidata,F,Q62511,way
 "Ann Burtonstraat",wikidata,F,Q530765,way
 "Anna Grollstraat",wikidata,F,Q28064360,way
@@ -59,6 +60,7 @@ Marijkestraat,wikidata,F,Q435324,way
 "Mina Krusemanstraat",wikidata,F,Q2019499,way
 "Petronella Moensweg",wikidata,F,Q2142140,way
 "Petronella Voûtepad",wikidata,F,Q4984876,way
+Prinsessekade,wikidata,F,Q154946,way
 "Rie Cramerlaan",wikidata,F,Q2151902,way
 "Rosa Manusstraat",wikidata,F,Q2139948,way
 "Rosalind Franklinpad",wikidata,F,Q7474,way
@@ -113,6 +115,7 @@ Diepenbrocklaan,wikidata,M,Q952378,way
 Doezastraat,wikidata,M,Q1229819,way
 "Dorus Rijkerskade",wikidata,M,Q593372,way
 "Dorus Rijkersweg",wikidata,M,Q593372,way
+Druckerstraat,wikidata,M,Q2780706,way
 "Du Puiplein",wikidata,M,Q15449645,way
 "Duke Ellingtonstraat",wikidata,M,Q4030,way
 Edisonstraat,wikidata,M,Q8743,way
@@ -127,6 +130,7 @@ Galileiweg,wikidata,M,Q307,way
 Gandhistraat,wikidata,M,Q1001,way
 "Glenn Millerstraat",wikidata,M,Q103651,way
 Goliuspad,wikidata,M,Q1368345,way
+Grevenstraat,wikidata,M,Q23061326,way
 Händelstraat,wikidata,M,Q7302,way
 Hansenstraat,wikidata,M,Q43522;Q603858,way
 Heemskerkstraat,wikidata,M,Q472245,way
@@ -145,6 +149,7 @@ Hogerbeetsstraat,wikidata,M,Q2165050,way
 "Johan Wagenaarlaan",wikidata,M,Q209898,way
 "Johan de Wittstraat",wikidata,M,Q318362,way
 "Johannes Verhulststraat",wikidata,M,Q964611,way
+"Joop den Uyllaan",wikidata,M,Q318320,way
 "Joseph Haydnlaan",wikidata,M,Q7349,way
 Joulestraat,wikidata,M,Q8962,way
 "Julius Caesarbrug",wikidata,M,Q1048,way
@@ -191,6 +196,7 @@ Sibeliusstraat,wikidata,M,Q45682,way
 Sieboldstraat,wikidata,M,Q77140,way
 "Stan Kentonstraat",wikidata,M,Q315780,way
 "Steve Bikostraat",wikidata,M,Q214473,way
+Stevenshof,wikidata,M,Q161775,way
 Stuyvesanthof,wikidata,M,Q161536,way
 Swammerdampad,wikidata,M,Q336794,way
 Sweelincklaan,wikidata,M,Q110294,way
@@ -218,6 +224,7 @@ Virulypad,wikidata,M,Q2804372,way
 Vivaldistraat,wikidata,M,Q1340,way
 Wattstraat,wikidata,M,Q9041,way
 "Willem Barentszstraat",wikidata,M,Q133060,way
+"Willem Dreeslaan",wikidata,M,Q12769,way
 "Willem Pijperstraat",wikidata,M,Q195114,way
 "Willem de Zwijgerlaan",wikidata,M,Q78454,way
 Zamenhofstraat,wikidata,M,Q11758,way
