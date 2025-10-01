@@ -1,4 +1,44 @@
 name,source,gender,wikidata,type
+"Anna Bijnskade",wikidata,-,Q18937412,way
+Bielsenstraat,wikidata,-,Q2359902,way
+"Blauwe tramstraat",wikidata,-,Q2832844,way
+Blauwpoortsbrug,wikidata,-,Q20892647,way
+Blauwpoortshaven,wikidata,-,Q20892647,way
+Bufferkade,wikidata,-,Q2359902,way
+Catharinabrug,wikidata,-,Q14345148,way
+Catharinahof,wikidata,-,Q14345148,way
+Catharinasteeg,wikidata,-,Q14345148,way
+Corantijnstraat,wikidata,-,Q508582,way
+Curaçaostraat,wikidata,-,Q25279,way
+Endegeesterwatering,wikidata,-,Q17438202,way
+Haarlemmerstraat,wikidata,-,Q9920,way
+Kanaalweg,wikidata,-,Q2034411,way
+Kettingstraat,wikidata,-,Q13745121,way
+Kooilaan,wikidata,-,Q20675,way
+"Laan der Verenigde Naties",wikidata,-,Q1065,way
+Lammenschansplein,wikidata,-,Q2034411,way
+Lammenschansweg,wikidata,-,Q2034411,way
+Leuvenstraat,wikidata,-,Q118958,way
+Lombokstraat,wikidata,-,Q7564,way
+"Marendorpse Dwarsstraat",wikidata,-,Q2709937,way
+Mariënpoelstraat,wikidata,-,Q98480662,way
+Marowijnepad,wikidata,-,Q1369002,way
+Molenstraat,wikidata,-,Q38720,way
+Nickeriepad,wikidata,-,Q182396,way
+Oxfordlaan,wikidata,-,Q34217,way
+Paramaribohof,wikidata,-,Q3001,way
+Paramaribostraat,wikidata,-,Q3001,way
+Pesthuislaan,wikidata,-,Q2105875,way
+Sabastraat,wikidata,-,Q25528,way
+Seinpaalstraat,wikidata,-,Q2359902,way
+"Sint Eustatiusstraat",wikidata,-,Q26180,way
+"Sint Maartenstraat",wikidata,-,Q26273,way
+Soestdijkkade,wikidata,-,Q234048,way
+Spoorlaan,wikidata,-,Q2359902,way
+Sumatrastraat,wikidata,-,Q3492,way
+Surinamestraat,wikidata,-,Q19901436,way
+Timorstraat,wikidata,-,Q83067,way
+"Piet Paaltjenspad",wikidata,?,Q1622461;Q2105875,way
 "Aagje Dekenstraat",wikidata,F,Q255601,way
 "Albertine Agnesstraat",wikidata,F,Q271950,way
 "Aletta Jacobslaan",wikidata,F,Q463478,way
@@ -108,6 +148,7 @@ Corellistraat,wikidata,M,Q164475,way
 Dankmeijerpad,wikidata,M,Q22920693,way
 "Darius Milhaudstraat",wikidata,M,Q186264,way
 Darwinweg,wikidata,M,Q1035,way
+"De Laat de Kanterstraat",wikidata,M,Q21170358,way
 "De Ruijterstraat",wikidata,M,Q316945,way
 Debussystraat,wikidata,M,Q4700,way
 Diepenbrocklaan,wikidata,M,Q952378,way
@@ -182,7 +223,6 @@ Pascalstraat,wikidata,M,Q1290,way
 Pasteurstraat,wikidata,M,Q529,way
 Paviusstraat,wikidata,M,Q531788,way
 "Peter van Anrooystraat",wikidata,M,Q2291985,way
-"Piet Paaltjenspad",wikidata,M,Q1622461;Q2105875,way
 "Pieter Bothstraat",wikidata,M,Q981554,way
 Plesmanlaan,wikidata,M,Q1936614,way
 Rembrandtbrug,wikidata,M,Q5598,way
@@ -222,6 +262,7 @@ Verhaartpad,wikidata,M,Q65850705,way
 Viottapad,wikidata,M,Q1980047,way
 Virulypad,wikidata,M,Q2804372,way
 Vivaldistraat,wikidata,M,Q1340,way
+Wasstraat,wikidata,M,Q90046607,way
 Wattstraat,wikidata,M,Q9041,way
 "Willem Barentszstraat",wikidata,M,Q133060,way
 "Willem Dreeslaan",wikidata,M,Q12769,way
