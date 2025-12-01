@@ -109,6 +109,7 @@ Prinsessekade,wikidata,F,Q154946,way
 "Sonia Gaskellstraat",wikidata,F,Q1191898,way
 Sophiastraat,wikidata,F,Q168674,way
 "Suze Robertsonstraat",wikidata,F,Q6584364,way
+"Tatiana Afanassjewaweg",wikidata,F,Q463530,way
 "Thérèse Schwartzestraat",wikidata,F,Q457001,way
 "Top Naeffstraat",wikidata,F,Q5260550,way
 "Trix Terwindtstraat",wikidata,F,Q2489230,way
@@ -229,7 +230,7 @@ Rembrandtbrug,wikidata,M,Q5598,way
 "Richard Holstraat",wikidata,M,Q350845,way
 "Robert Boyleweg",wikidata,M,Q43393,way
 "Salvador Allendeplein",wikidata,M,Q440,way
-Sandifortdreef,wikidata,M,Q4027297;Q2315806,way
+Sandifortdreef,wikidata,M,Q4027297;Q4027297;Q2315806,way
 Schubertlaan,wikidata,M,Q7312,way
 Semmelweisstraat,wikidata,M,Q59736,way
 Sibeliusstraat,wikidata,M,Q45682,way
