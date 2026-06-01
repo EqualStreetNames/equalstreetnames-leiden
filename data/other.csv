@@ -6,7 +6,6 @@ name,source,gender,wikidata,type
 "4e Binnenvestgracht",,,,way
 "5e Binnenvestgracht",,,,way
 Aalberseplein,,,,way
-Aalmarkt,,,,way
 Aalscholveroord,,,,way
 "Aaltje Noordewierlaan",,,,way
 Aardbeipad,,,,way
@@ -110,7 +109,6 @@ Barnsteenstraat,,,,way
 Bassonstraat,,,,way
 Beekforel,,,,way
 Beelpad,,,,way
-Beestenmarkt,,,,relation+way
 Begijnhof,,,,way
 Begoniadal,,,,way
 Begoniapad,,,,way
@@ -125,7 +123,6 @@ Berliozpad,,,,way
 Bernhardkade,,,,way
 "Bert Garthoffpad",,,,way
 Berylstraat,,,,way
-Beschuitsteeg,,,,way
 Besjeslaan,,,,way
 Besjeslaanbrug,,,,way
 "Bessen pad",,,,way
@@ -322,7 +319,6 @@ Diaconessenstraat,,,,way
 Diamantlaan,,,,way
 Diamantplein,,,,way
 Dianastraat,,,,way
-Diefsteeg,,,,way
 Diemelstraat,,,,way
 Dieperpoellaan,,,,way
 Dierenweide,,,,way
@@ -421,7 +417,6 @@ Flevoweg,,,,way
 Floresstraat,,,,way
 "Floris Versterlaan",,,,way
 Fokkeplein,,,,way
-Fokkestraat,,,,way
 Forellenpad,,,,way
 Forestuspad,,,,way
 Formosastraat,,,,way
@@ -550,7 +545,6 @@ Herenpoortsbrug,,,,way
 Herensingel,,,,way
 Herensteeg,,,,way
 Herenstraat,,,,way
-"Herman Gorterstraat",,,,way
 "Herman Kleibrinkstraat",,,,way
 Hermanstraat,,,,way
 Hermelijnvlinder,,,,way
@@ -1128,14 +1122,6 @@ Peppelrode,,,,way
 "Peren pad",,,,way
 Perenweg,,,,way
 Pergolesipad,,,,way
-"Perron A",,,,way
-"Perron B",,,,way
-"Perron C",,,,way
-"Perron D",,,,way
-"Perron E",,,,way
-"Perron F",,,,way
-"Perron G",,,,way
-"Perron H",,,,way
 "Persant Snoepweg",,,,way
 Perzikweg,,,,way
 Pesthuistunnel,,,,way
@@ -1217,7 +1203,6 @@ Rembrandtplaats,,,,relation+way
 Rembrandtstraat,,,,way
 Remusbrug,,,,way
 Resedastraat,,,,way
-Reuvensplaats,,,,way
 Rhijnhofweg,,,,way
 Rhijnvreugd,,,,way
 Ridderspoortuin,,,,way

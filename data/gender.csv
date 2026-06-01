@@ -1,5 +1,8 @@
 name,source,gender,wikidata,type
+Aalmarkt,wikidata,-,Q1188480,way
 "Anna Bijnskade",wikidata,-,Q18937412,way
+Beestenmarkt,wikidata,-,Q13592976,relation+way
+Beschuitsteeg,wikidata,-,Q56599054,way
 Bielsenstraat,wikidata,-,Q2359902,way
 "Blauwe tramstraat",wikidata,-,Q2832844,way
 Blauwpoortsbrug,wikidata,-,Q20892647,way
@@ -11,6 +14,7 @@ Catharinahof,wikidata,-,Q14345148,way
 Catharinasteeg,wikidata,-,Q14345148,way
 Corantijnstraat,wikidata,-,Q508582,way
 Curaçaostraat,wikidata,-,Q25279,way
+Diefsteeg,wikidata,-,Q3562775,way
 Endegeesterwatering,wikidata,-,Q17438202,way
 Haarlemmerstraat,wikidata,-,Q9920,way
 Kanaalweg,wikidata,-,Q2034411,way
@@ -19,7 +23,7 @@ Kooilaan,wikidata,-,Q20675,way
 "Laan der Verenigde Naties",wikidata,-,Q1065,way
 Lammenschansplein,wikidata,-,Q2034411,way
 Lammenschansweg,wikidata,-,Q2034411,way
-Leuvenstraat,wikidata,-,Q118958,way
+Leuvenstraat,wikidata,-,Q139695362,way
 Lombokstraat,wikidata,-,Q7564,way
 "Marendorpse Dwarsstraat",wikidata,-,Q2709937,way
 Mariënpoelstraat,wikidata,-,Q98480662,way
@@ -169,6 +173,7 @@ Einthovenweg,wikidata,M,Q189488,way
 Fagelstraat,wikidata,M,Q388711,way
 Faradaypad,wikidata,M,Q8750,way
 Flemingstraat,wikidata,M,Q37064,way
+Fokkestraat,wikidata,M,Q139900066,way
 Galileiweg,wikidata,M,Q307,way
 Gandhistraat,wikidata,M,Q1001,way
 "Glenn Millerstraat",wikidata,M,Q103651,way
@@ -178,6 +183,7 @@ Händelstraat,wikidata,M,Q7302,way
 Hansenstraat,wikidata,M,Q43522;Q603858,way
 Heemskerkstraat,wikidata,M,Q472245,way
 "Henri Dunantstraat",wikidata,M,Q12091,way
+"Herman Gorterstraat",wikidata,M,Q325191,way
 Hertzstraat,wikidata,M,Q41257,way
 Heurniusstraat,wikidata,M,Q1697683;Q556932,way
 Hildebrandpad,wikidata,M,Q537100,way
@@ -227,6 +233,7 @@ Paviusstraat,wikidata,M,Q531788,way
 "Pieter Bothstraat",wikidata,M,Q981554,way
 Plesmanlaan,wikidata,M,Q1936614,way
 Rembrandtbrug,wikidata,M,Q5598,way
+Reuvensplaats,wikidata,M,Q1863369,way
 "Richard Holstraat",wikidata,M,Q350845,way
 "Robert Boyleweg",wikidata,M,Q43393,way
 "Salvador Allendeplein",wikidata,M,Q440,way
